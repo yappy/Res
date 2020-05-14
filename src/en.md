@@ -36,5 +36,3 @@ Base system (low level software) development
 Keio University, March 2014
 * Bachelor of Engineering in Information Technology  
 Keio University, March 2012
-
-# Optional
